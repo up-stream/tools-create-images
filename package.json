@@ -1,0 +1,16 @@
+{
+  "name": "create-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc && node build/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "jimp": "^0.22.12",
+    "typescript": "^5.5.3"
+  }
+}
